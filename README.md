@@ -4,3 +4,5 @@ This repository contains an interactive Shiny web application for creating terna
 - Input data directly or upload CSV files
 - Customize plot appearance
 - Review data in table format
+
+<img src="images/ternary_plot_app.png">
